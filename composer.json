@@ -1,12 +1,12 @@
 {
-    "name": "travoltron/dusk-secure",
+    "name": "andiwijaya/dusk-secure",
     "description": "A more secure Laravel Dusk that provides simple end-to-end testing and browser automation without exposing routes or authentication.",
     "keywords": ["laravel", "testing", "webdriver"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Ben Warburton",
-            "email": "ben@travoltron.com"
+            "name": "Andi Wijaya",
+            "email": "andyv4@gmail.com"
         }
     ],
     "require": {
